@@ -11,16 +11,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [3871-count-commas-in-range-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -105,4 +108,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
