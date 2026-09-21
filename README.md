@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0066-plus-one) |
+| [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -140,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
