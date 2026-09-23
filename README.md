@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0066-plus-one) |
+| [0198-house-robber](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
 ## Minimax
