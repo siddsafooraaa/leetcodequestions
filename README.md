@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Minimax
 |  |
 | ------- |
