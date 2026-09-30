@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0931-minimum-falling-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0931-minimum-falling-path-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Minimax
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0931-minimum-falling-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0931-minimum-falling-path-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Memoization
 |  |
 | ------- |
