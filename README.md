@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0020-valid-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
