@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
@@ -211,9 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
