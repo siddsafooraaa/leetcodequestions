@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1911-maximum-alternating-subsequence-sum) |
