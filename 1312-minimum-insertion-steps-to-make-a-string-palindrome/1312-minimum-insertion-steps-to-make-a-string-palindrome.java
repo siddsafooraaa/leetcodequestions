@@ -1,5 +1,5 @@
 class Solution {
-    int n;
+     int n;
     int[][] dp;
     public int minInsertions(String s) {
         n=s.length();
@@ -7,20 +7,22 @@ class Solution {
         for(int i=0;i<n;i++){
             Arrays.fill(dp[i],-1);
         }
-        String rev=new StringBuilder(s).reverse().toString();
-        int ans=solve(0,0,s,rev);
+        int ans= solve(0,n-1,s);
         return n-ans;
     }
-    public int solve(int i,int j,String s,String rev){
-        if(i==s.length() || j==rev.length()){
+    public int solve(int i,int j,String s){
+        if(i>j){
             return 0;
+        }
+        if(i==j){
+            return 1;
         }
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
-        if(s.charAt(i)==rev.charAt(j)){
-            return 1+solve(i+1,j+1,s,rev);
+        if(s.charAt(i)==s.charAt(j)){
+            return 2+solve(i+1,j-1,s);
         }
-        return dp[i][j]=Math.max(solve(i+1,j,s,rev),solve(i,j+1,s,rev));
+        return dp[i][j]=Math.max(solve(i+1,j,s),solve(i,j-1,s));
     }
 }
