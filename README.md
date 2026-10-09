@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
