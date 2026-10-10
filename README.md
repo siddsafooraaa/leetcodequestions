@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0583-delete-operation-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0856-score-of-parentheses) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0213-house-robber-ii) |
