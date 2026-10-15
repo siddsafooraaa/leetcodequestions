@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2465-number-of-distinct-averages](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2465-number-of-distinct-averages) |
+| [2706-buy-two-chocolates](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2706-buy-two-chocolates) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2465-number-of-distinct-averages) |
+| [2706-buy-two-chocolates](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2706-buy-two-chocolates) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0300-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
