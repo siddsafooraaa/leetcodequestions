@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
