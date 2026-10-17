@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0213-house-robber-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 | [2465-number-of-distinct-averages](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2465-number-of-distinct-averages) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0583-delete-operation-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0856-score-of-parentheses) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0300-longest-increasing-subsequence) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -278,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0044-wildcard-matching) |
 | [2706-buy-two-chocolates](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2706-buy-two-chocolates) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
