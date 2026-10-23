@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2465-number-of-distinct-averages) |
