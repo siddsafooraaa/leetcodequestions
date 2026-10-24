@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
+| [2409-count-days-spent-together](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
 | ------- |
