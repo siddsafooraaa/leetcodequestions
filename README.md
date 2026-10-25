@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
+| [0387-first-unique-character-in-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0389-find-the-difference) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
+| [0387-first-unique-character-in-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0583-delete-operation-for-two-strings) |
@@ -359,10 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
