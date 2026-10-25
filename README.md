@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1688-count-of-matches-in-tournament) |
 | [2409-count-days-spent-together](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3871-count-commas-in-range-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0067-add-binary) |
+| [1688-count-of-matches-in-tournament](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search Tree
 |  |
