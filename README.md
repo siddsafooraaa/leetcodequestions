@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2465-number-of-distinct-averages](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2465-number-of-distinct-averages) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2409-count-days-spent-together) |
