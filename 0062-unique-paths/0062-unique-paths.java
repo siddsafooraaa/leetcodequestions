@@ -5,24 +5,24 @@ class Solution {
     public int uniquePaths(int m, int n) {
         this.m=m;
         this.n=n;
-         dp=new int[m][n];
+        dp=new int[m+1][n+1];
         for(int i=0;i<m;i++){
             Arrays.fill(dp[i],-1);
-            }
-        return solve(0,0);
+        }
+        return solve(m-1,n-1);
     }
     public int solve(int i,int j){
-        if(i==m-1 && j==n-1){
+        if(i==0 && j==0){
             return 1;
         }
-        if(i<0 || i>=m || j<0 || j>=n){
+        if(i<0 || j<0){
             return 0;
         }
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
-        int right=solve(i,j+1);
-        int down=solve(i+1,j);
-        return dp[i][j]= right+down;
+        int left=solve(i,j-1);
+        int up=solve(i-1,j);
+        return dp[i][j]=left+up;
     }
 }
