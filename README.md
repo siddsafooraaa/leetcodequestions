@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
+| [0344-reverse-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0516-longest-palindromic-subsequence) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0344-reverse-string) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2465-number-of-distinct-averages) |
