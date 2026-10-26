@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2706-buy-two-chocolates](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2706-buy-two-chocolates) |
