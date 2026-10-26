@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -369,6 +372,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
