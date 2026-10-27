@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0044-wildcard-matching) |
+| [0326-power-of-three](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
 ## Array
