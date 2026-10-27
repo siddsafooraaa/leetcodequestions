@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0205-isomorphic-strings) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0575-distribute-candies) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -310,12 +313,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
