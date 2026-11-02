@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2465-number-of-distinct-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
 |  |
@@ -422,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2574-left-and-right-sum-differences) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
