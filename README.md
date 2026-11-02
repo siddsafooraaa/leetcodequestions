@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1688-count-of-matches-in-tournament) |
 | [2409-count-days-spent-together](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3871-count-commas-in-range-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
