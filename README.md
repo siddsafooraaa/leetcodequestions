@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1046-last-stone-weight) |
 ## Prefix Sum
 |  |
