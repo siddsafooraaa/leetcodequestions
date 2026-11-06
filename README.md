@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0733-flood-fill) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0387-first-unique-character-in-a-string) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
