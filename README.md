@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0518-coin-change-ii) |
+| [0561-array-partition](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0605-can-place-flowers) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -441,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
