@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-cherry-pickup-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1463-cherry-pickup-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0697-degree-of-an-array) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -453,4 +456,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
