@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -458,5 +460,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
