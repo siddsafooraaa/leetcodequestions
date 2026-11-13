@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0067-add-binary) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0486-predict-the-winner) |
