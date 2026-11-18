@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0064-minimum-path-sum) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
