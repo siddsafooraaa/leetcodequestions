@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
