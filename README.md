@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0594-longest-harmonious-subsequence) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0994-rotting-oranges) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0994-rotting-oranges) |
