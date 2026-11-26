@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1051-height-checker) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0733-flood-fill) |
 | [0951-flip-equivalent-binary-trees](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0951-flip-equivalent-binary-trees) |
+| [1020-number-of-enclaves](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1020-number-of-enclaves) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1020-number-of-enclaves) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## String
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Memoization
