@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0098-validate-binary-search-tree) |
+| [0130-surrounded-regions](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/siddsafooraaa/leetcodequestions/tree/master/1020-number-of-enclaves) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/siddsafooraaa/leetcodequestions/tree/master/0463-island-perimeter) |
